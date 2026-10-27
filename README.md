@@ -3,7 +3,7 @@
 This project demonstrates a germline variant calling workflow using human whole-genome sequencing (WGS) data from the 1000 Genomes Project (HG00096, SRR062634).
 
 ## Dataset
--**Sample:** HG00096
+- **Sample:** HG00096
 - **Sequencing data:** SRR062634 (paired-end reads)
 - **Source:** 1000 Genomes Project
 - **Reference genome:** Human hg38
